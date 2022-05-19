@@ -1,0 +1,10 @@
+<resources>
+<string name="app_name">Languages</string>
+<string name="Heading">Select a language</string>
+<string name="RadioButton1">English</string>
+<string name="RadioButton2">Mathemetics</string>
+<string name="RadioButton3">History</string>
+<string name="RadioButton4">Geography</string>
+<string name="RadioButton5">Science</string>
+<string name="submit_Button">Submit</string>
+</resources>
